@@ -1,4 +1,4 @@
-# Brian Currie
+**Brian Currie** — AI Systems Architect
 
 Agentic AI systems architect. I specialize in building autonomous agent systems that handle complex workflows with minimal human intervention.
 
