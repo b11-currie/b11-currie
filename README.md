@@ -1,16 +1,14 @@
-## Brian Currie - Agentic AI Systems
+I am Brian Currie
 
-### Experience Snapshot
+**Senior Agentic AI Engineer**
 
-| Achievement | Details |
-|------------|---------|
-| **Autonomous Agents** | Designed systems with reasoning, planning, and tool use |
-| **Multi-Agent Coordination** | 5+ agents collaborating on complex tasks |
-| **LLM Orchestration** | Integrated 10+ foundation models into production |
-| **Tool Integration** | 50+ external APIs and tools connected to agents |
-| **Reliability** | 99.2% agent success rate on structured tasks |
+Designing autonomous systems with reasoning, planning, and tool orchestration capabilities.
 
-### Current Focus
-Building resilient agent architectures that handle failures gracefully. Obsessed with reducing hallucinations and improving reasoning chains.
+**Expertise:**
+- Autonomous agent architecture with 99.2% success rate
+- Multi-agent coordination across 5+ concurrent agents
+- LLM orchestration integrating 10+ foundation models
+- Tool integration connecting 50+ external APIs
+- Failure handling and graceful degradation
 
-**Philosophy:** Agents aren't just chatbots with tools—they're intelligent systems that plan, adapt, and learn from feedback.
+**Focus:** Building resilient agent systems that plan intelligently, adapt to failures, and learn from feedback.
