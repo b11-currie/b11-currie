@@ -1,12 +1,7 @@
-# Brian Currie
+# Hello, I'm Brian
 
-**Agentic AI & Automation Engineer**
+I build autonomous systems that make people's work easier. Started in full-stack development, evolved into AI automation. Now specializing in agentic workflows using LLMs.
 
-Specializing in autonomous agent systems and AI-driven workflow automation. Recent work includes:
-- Multi-agent LLM orchestration using LangChain and LangGraph
-- Production AI systems with 99.9% uptime
-- Custom integrations with Zapier, Make, and n8n
-- MCP (Model Context Protocol) implementation
+What drives me: taking complex problems and making them feel simple. Whether it's LangChain orchestration or workflow automation with Zapier, the goal is always to ship something that actually works.
 
-## Technical Stack
-LangChain, LangGraph, Python, AWS, OpenAI/LLM APIs, Microservices Architecture
+**Stack**: LangChain, LangGraph, Python, AWS
