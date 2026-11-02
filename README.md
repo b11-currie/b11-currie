@@ -1,22 +1,12 @@
-# I am Brian Currie
+# Brian Currie
 
----
+**Agentic AI & Automation Engineer**
 
-## What I Do
-Building AI-Powered Automation with focus on Agentic AI Systems, LangChain, LangGraph, MCP, RAG, LLM Orchestration, AWS Cloud.
+Specializing in autonomous agent systems and AI-driven workflow automation. Recent work includes:
+- Multi-agent LLM orchestration using LangChain and LangGraph
+- Production AI systems with 99.9% uptime
+- Custom integrations with Zapier, Make, and n8n
+- MCP (Model Context Protocol) implementation
 
-### Core Skills
-Agentic AI Systems, LangChain, LangGraph, MCP, RAG, LLM Orchestration, AWS Cloud
-
-### Why Work With Me?
-✨ Production-ready code  
-⚡ Scalable architectures  
-🔧 Full-stack capabilities  
-📚 Mentorship-oriented  
-
-### Let's Connect
-[GitHub](https://github.com/b11-currie) • [LinkedIn](https://linkedin.com/in/b11-currie)
-
----
-
-*Brian Currie | Engineer | Builder*
+## Technical Stack
+LangChain, LangGraph, Python, AWS, OpenAI/LLM APIs, Microservices Architecture
