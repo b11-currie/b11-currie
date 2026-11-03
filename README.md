@@ -1,48 +1,65 @@
-# Brian Currie
+# Brian Currie · Senior AI Engineer
 
-**Senior Agentic AI Engineer**
 
-## Specialization
+**I build AI agents that hold up in production.** Agentic AI · MCP · RAG
 
-Designing and building autonomous agent systems that can reason about complex problems, plan multi-step solutions, and execute actions in the real world. Creating intelligent systems with tool orchestration, error recovery, and continuous improvement capabilities.
 
-## Why Agents Matter
+<img src="https://img.shields.io/badge/shipping%20software-10%2B%20years-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/manual%20work%20automated-120%2B%20hrs%2Fweek-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/saved%20per%20deal-6--8%20hours-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/production%20uptime-99.9%25-059669?style=for-the-badge" />
 
-Traditional chatbots respond to single queries. Agents are fundamentally different—they understand context, make decisions, plan sequences of actions, and adapt when facing obstacles. Building truly autonomous systems requires rethinking architecture at every level.
 
-## 🏆 Production Experience
+```text
+agent.run("introduce brian")
+  ├─ plan   → who I am
+  ├─ act    → what I've built
+  ├─ check  → how I keep it reliable
+  └─ tools  → what I build with
+```
 
-| Capability | Achievement | Metrics |
-|-----------|-------------|---------|
-| **Autonomous Agents** | Multi-step reasoning systems | 99.2% task success rate |
-| **Multi-Agent Systems** | Collaborative agent networks | 5+ agents coordinating tasks |
-| **LLM Integration** | Foundation model orchestration | 10+ models in production |
-| **Tool Integration** | External API connections | 50+ integrated tools |
-| **Error Handling** | Graceful failure recovery | 98% reliability |
 
-## Technical Foundation
+### 🧭 plan
 
-### Architecture Decisions
-- Single agent vs multi-agent tradeoffs
-- Memory management for long conversations
-- Tool selection and ordering optimization
-- Error recovery and retry strategies
-- Cost optimization for API-dependent systems
 
-### LLM Orchestration
-Integrating multiple foundation models, selecting appropriate models for specific tasks, managing API quotas and costs, implementing fallback strategies when models fail.
+I design multi-agent systems, tool layers and retrieval pipelines with **LangChain, LangGraph and MCP**, and I know when a well-built n8n, Make or Zapier flow is the faster path to value. I came up through full-stack and production engineering, 10+ years across real estate, property management and pharmacy health-tech, so I obsess over reliability, cost control and whether the thing actually solves the business problem.
 
-### Tool Integration
-Designing interfaces between agents and external APIs, handling tool failures gracefully, managing state across tool calls, implementing safety constraints.
 
-## Current Focus
+### 🛠️ act
 
-Building resilient agent systems that handle real-world complexity. Not just proof-of-concepts, but systems that work reliably in production with proper monitoring, logging, and failure recovery. Creating agents that understand their own limitations and ask for help when needed.
 
-## Philosophy
+| 🤖 Agents & generative AI | 🔗 Integrations & rules engines |
+|---|---|
+| **i. Closing Desk** · LangGraph supervisor that coordinates real-estate deals from contract to close, with human approval before anything goes out | **iv. RefillLink** · HL7 v2 / MLLP bridge between pharmacy systems and a patient refill app, built HIPAA-aware |
+| **ii. ListingSmith** · LLM listing descriptions per brand voice, with fair-housing checks, triggered from n8n and Make | **v. Dosebook** · appointment scheduler with a staff-editable eligibility rules engine that stays fast at peak load |
+| **iii. Toolport** · MCP servers giving agents one typed, audited interface to MLS, CRM, calendars and documents | **vi. Prorata** · C# rules DSL that generates owner statements so accountants only review exceptions |
 
-Agents aren't just chatbots with tools attached. They're intelligent systems that reason strategically, understand context deeply, adapt to changing circumstances, and improve through experience. Building them requires careful engineering and deep understanding of both the problem domain and the models powering them.
 
----
+### ✅ check
 
-*Intelligent systems that reason and act.*
+
+> The interesting part of an agent isn't the prompt. It's the **retries**, the **guardrails**, the **cost ceiling** and the **human checkpoint**.
+
+
+Circuit breakers, rate limiting, jittered retries, per-run cost ceilings and LangSmith traces on every agent decision.
+
+
+### 🔌 tools
+
+
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+
+<p><img src="https://skillicons.dev/icons?i=py,nodejs,react,postgres,aws,azure,cs,docker&perline=8" /></p>
+
